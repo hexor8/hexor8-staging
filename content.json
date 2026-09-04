@@ -221,6 +221,11 @@
         "icon": "🖍",
         "name": "Krita",
         "desc": "Digital Art"
+      },
+      {
+        "icon": "??",
+        "name": "Test Tool",
+        "desc": "End-to-end test"
       }
     ]
   },

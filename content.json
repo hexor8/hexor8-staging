@@ -263,6 +263,12 @@
             "description": "A DaVinci Resolve macro that controls the opacity of whatever sits before it in the stack — turn it down to make that layer transparent.",
             "fileUrl": "assets/SHOP/MACROS/Opacity.setting",
             "price": "Free"
+          },
+          {
+            "name": "Cubic Displace",
+            "description": "creates a checkboard pattern for saas edits just try it",
+            "fileUrl": "assets/SHOP/Macros/H_Cubic-Displace.setting",
+            "price": "Free"
           }
         ]
       },
